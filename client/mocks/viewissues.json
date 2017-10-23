@@ -1,1 +1,14 @@
-{}
+{
+  "viewissues": [
+    {
+      "ID": "001",
+      "Status": "OK",
+      "Summary": "the first"
+    },
+    {
+      "ID": "002",
+      "Status": "pending",
+      "Summary": "the second"
+    }
+  ]
+}
