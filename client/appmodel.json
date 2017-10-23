@@ -53,13 +53,22 @@
           "type": "object",
           "properties": {
             "ID": {
-              "type": "string"
+              "type": "string",
+              "update": {
+                "type": "none"
+              }
             },
             "Status": {
-              "type": "string"
+              "type": "string",
+              "update": {
+                "type": "none"
+              }
             },
             "Summary": {
-              "type": "string"
+              "type": "string",
+              "update": {
+                "type": "none"
+              }
             }
           }
         },
