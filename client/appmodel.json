@@ -51,7 +51,17 @@
         "type": "array",
         "items": {
           "type": "object",
-          "properties": {}
+          "properties": {
+            "ID": {
+              "type": "string"
+            },
+            "Status": {
+              "type": "string"
+            },
+            "Summary": {
+              "type": "string"
+            }
+          }
         }
       }
     }
